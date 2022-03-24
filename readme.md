@@ -12,3 +12,5 @@ Instructions for demo cases can be found in the documentation of both functions.
 If you find any bugs or have suggestions for improvements, please let me know!
 
 -- Eike Petersen, 2021
+
+This script has been developed while I was at the [University of Lübeck](https://www.uni-luebeck.de/en/university/university.html), with the [Institute for Electrical Engineering in Medicine](https://www.ime.uni-luebeck.de/institute.html).
